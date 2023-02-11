@@ -1,3 +1,47 @@
 h1{
     background-color: blue;
 }
+.menu ul
+{
+    padding: 0;
+    margin: 0;
+
+}
+.cho{
+   
+}
+.lo{
+    
+}
+.menu li{
+    list-style: none;
+    float: left;
+    position: relative;
+   
+
+}
+.menu ul li a{
+    color: black;
+    text-decoration: none;
+    width: 50px;
+    height: 10px;
+    padding: 100px;
+    text-align: center;
+    margin: 20px;
+   
+
+}
+.menu ul ul {
+    position: absolute;
+    top: 40px;
+    visibility: hidden;
+   
+}
+.menu ul li:hover ul{
+    visibility: visible;
+}
+
+
+
+
+
