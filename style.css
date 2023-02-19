@@ -1,37 +1,15 @@
 body{
     background-color: green;
 }
-h1{
-    text-align: center;
-}
-.un{
-    margin: 0 auto;
-    margin-top: 80px;
-    width: 29%;
-    background-color: azure;
-}
-form{
-padding: 12px;
-}
-label{
-    font-family: 'Courier New', Courier, monospace;
-    font-weight: bold;
-    font-size: 22px;
+.moi{
+    background-color: gainsboro;
+    border-radius: 10%;
 }
 input{
-    margin: 10px;
-    padding: 15px;
-    padding-right: 170px;
-    border: 2px solid rgb(195, 191, 191);
+    width: 50%;
+    border-radius: 10%;
 }
-button{
-    width: 98%;
-    margin: 10px;
-    padding: 15px;
-    padding-right: 170px;
-    border: 2px solid rgb(195, 191, 191);
-    background-color: green;
-    text-align: center;
-    color: aliceblue;
+label{
     font-size: 18px;
+    
 }
